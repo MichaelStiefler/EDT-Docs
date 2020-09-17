@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.casioeurope.mis.edt"},{"l":"com.casioeurope.mis.edt.types"}];updateSearchResults();
